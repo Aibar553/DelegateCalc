@@ -1,0 +1,15 @@
+C:\Users\Aibar Arysbai\source\repos\DelegateCalc\DelegateCalc\bin\Debug\net6.0\DelegateCalc.exe
+C:\Users\Aibar Arysbai\source\repos\DelegateCalc\DelegateCalc\bin\Debug\net6.0\DelegateCalc.deps.json
+C:\Users\Aibar Arysbai\source\repos\DelegateCalc\DelegateCalc\bin\Debug\net6.0\DelegateCalc.runtimeconfig.json
+C:\Users\Aibar Arysbai\source\repos\DelegateCalc\DelegateCalc\bin\Debug\net6.0\DelegateCalc.dll
+C:\Users\Aibar Arysbai\source\repos\DelegateCalc\DelegateCalc\bin\Debug\net6.0\DelegateCalc.pdb
+C:\Users\Aibar Arysbai\source\repos\DelegateCalc\DelegateCalc\obj\Debug\net6.0\DelegateCalc.csproj.AssemblyReference.cache
+C:\Users\Aibar Arysbai\source\repos\DelegateCalc\DelegateCalc\obj\Debug\net6.0\DelegateCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aibar Arysbai\source\repos\DelegateCalc\DelegateCalc\obj\Debug\net6.0\DelegateCalc.AssemblyInfoInputs.cache
+C:\Users\Aibar Arysbai\source\repos\DelegateCalc\DelegateCalc\obj\Debug\net6.0\DelegateCalc.AssemblyInfo.cs
+C:\Users\Aibar Arysbai\source\repos\DelegateCalc\DelegateCalc\obj\Debug\net6.0\DelegateCalc.csproj.CoreCompileInputs.cache
+C:\Users\Aibar Arysbai\source\repos\DelegateCalc\DelegateCalc\obj\Debug\net6.0\DelegateCalc.dll
+C:\Users\Aibar Arysbai\source\repos\DelegateCalc\DelegateCalc\obj\Debug\net6.0\refint\DelegateCalc.dll
+C:\Users\Aibar Arysbai\source\repos\DelegateCalc\DelegateCalc\obj\Debug\net6.0\DelegateCalc.pdb
+C:\Users\Aibar Arysbai\source\repos\DelegateCalc\DelegateCalc\obj\Debug\net6.0\DelegateCalc.genruntimeconfig.cache
+C:\Users\Aibar Arysbai\source\repos\DelegateCalc\DelegateCalc\obj\Debug\net6.0\ref\DelegateCalc.dll
